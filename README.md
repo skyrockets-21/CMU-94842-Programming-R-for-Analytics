@@ -1,1 +1,1 @@
-# CMU-94842-Programming-R-for-Analytics
+# CMU 94842 Programming R for Analytics
