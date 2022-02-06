@@ -3,12 +3,14 @@
 ---
 
 See my projects in detail:
-[This Project's Repo](https://github.com/skyrockets-21/Predicting-County-Level-COVID-Transmission-using-CDC-Social-Vulnerability-Index) \
+[This Project's Repo (Stay Tuned!)](https://github.com/skyrockets-21/Predicting-County-Level-COVID-Transmission-using-CDC-Social-Vulnerability-Index) \
 [Go to my LinkedIn Page](https://www.linkedin.com/in/thomasyctam/) 
 
 ---
 
 ![image](https://user-images.githubusercontent.com/22537687/152667951-822de97d-ec3b-458f-a1b6-f04aef88713c.png)
+
+# Under Construction, Stay Tuned!
 
 ### Introduction
 Social vulnerability, according to CDC, refers to "the potential negative effects on communities caused by external stresses on human health. Such stresses include natural or human-caused disasters, or disease outbreaks. Reducing social vulnerability can decrease both human suffering and economic loss." 
